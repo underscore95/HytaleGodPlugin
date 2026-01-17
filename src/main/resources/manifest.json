@@ -1,0 +1,18 @@
+{
+  "Group": "me.underscore95",
+  "Name": "GodMode",
+  "Version": "1.0.0",
+  "Description": "Adds /godmode",
+  "Authors": [
+    {
+      "Name": "underscore95",
+      "Url": "https://github.com/underscore95"
+    }
+  ],
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "me.underscore95.godmode.GodModePlugin",
+  "IncludesAssetPack": true
+}
